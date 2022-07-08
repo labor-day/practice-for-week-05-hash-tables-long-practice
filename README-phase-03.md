@@ -1,4 +1,4 @@
-# Advanced Phase 3: Hash table optimization problems
+ # Advanced Phase 3: Hash table optimization problems
 
 If you finish the problems in phase 2, you can work on these as a bonus.
 
